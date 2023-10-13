@@ -1,0 +1,15 @@
+#ec{
+    background-color: orange; color: white;
+}
+
+/* span{
+    background-color: aqua !important;
+} */
+
+span{
+    background-color: orange !important;
+}
+
+.good{background-color: orange;}
+
+.hello{background-color: black;}
